@@ -8,6 +8,6 @@ The dataset used to import the data is separated in 3 .cvs (Review.csv, Hosts.cs
 - Apartments: All the apartments listed in the app 
 
 ## Conceptual Model
-<img src="images/conceptual.png" alt="Example Render" width="500" height="600">
+<img src="images/conceptual.png" alt="Example Render" width="500" height="550">
 Once the dataset is analysed we need to separate and organize the data in a coceptual model so then we can use it as a base for the Relational Model
 
