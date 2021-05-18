@@ -11,3 +11,6 @@ The dataset used to import the data is separated in 3 .cvs (Review.csv, Hosts.cs
 <img src="images/conceptual.png" alt="Example Render" width="500" height="400">
 Once the dataset is analysed we need to separate and organize the data in a coceptual model so then we can use it as a base for the Relational Model
 
+## Relational Model
+<img src="images/Relational.png" alt="Example Render" width="500" height="420">
+Once the dataset is analysed we need to separate and organize the data in a coceptual model so then we can use it as a base for the Relational Model
